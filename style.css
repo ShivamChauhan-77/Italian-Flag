@@ -1,0 +1,26 @@
+html, body{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+.container{
+    height:200px;
+    width:calc(200px*3/2);
+    border:2px solid white;
+    margin:2em auto;
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    /* display:flex; */
+}
+/* .stripe{
+    flex-grow:1;
+} */
+.green{
+    background-color: green;
+}
+.white{
+    background-color: white;
+}
+.red{
+    background-color: red;
+}
