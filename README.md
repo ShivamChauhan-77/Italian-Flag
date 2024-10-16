@@ -1,3 +1,3 @@
 # Italian Flag
 
-This is an italian flag.
+This is project of an Italian Flag.
